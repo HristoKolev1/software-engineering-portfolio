@@ -43,7 +43,7 @@ The backend is separated into multiple Spring Boot services, each responsible fo
 
 **Tech:** Java, Spring Boot, Spring Security, React, TypeScript, MySQL, Docker, GitHub Actions
 
-**Repository:** [View project](ADD_REPOSITORY_LINK)
+**Repository:** [View project]([ADD_REPOSITORY_LINK](https://github.com/HristoKolev1/meeting-to-task-converter))
 
 ---
 
@@ -64,8 +64,7 @@ The application is designed with future integrations in mind, such as task manag
 
 **Tech:** Python, FastAPI, LLM Integration
 
-**Repository:** [View project]([ADD_REPOSITORY_LINK]https://github.com/HristoKolev1/meeting-to-task-converter)
-
+**Repository:** [View project](ADD_REPOSITORY_LINK)
 ---
 
 ## Cybersecurity Engineering Projects
