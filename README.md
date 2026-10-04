@@ -64,7 +64,7 @@ The application is designed with future integrations in mind, such as task manag
 
 **Tech:** Python, FastAPI, LLM Integration
 
-**Repository:** [View project]((https://github.com/HristoKolev1/meeting-to-task-converter))
+**Repository:** [View project]([ADD_REPOSITORY_LINK]https://github.com/HristoKolev1/meeting-to-task-converter)
 
 ---
 
